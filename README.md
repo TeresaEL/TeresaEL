@@ -60,8 +60,8 @@
 
 ⚡  GitHub Statistics
   
-![](https://github.com/TeresaEL/Github_stat/blob/master/generated/overview.svg)
-![](https://github.com/TeresaEL/Github_stat/blob/master/generated/languages.svg)
+![](https://github.com/TeresaEL/Github_stats/blob/master/generated/overview.svg)
+![](https://github.com/TeresaEL/Github_stats/blob/master/generated/languages.svg)
 
 <!--
 <details close>
@@ -77,8 +77,6 @@
 <summary>:zap: Languages</summary>
   <img src="https://wakatime.com/share/@397b1319-dbea-49b0-a916-53258ecb0152/36746a04-b26a-4fd1-8186-cb0ebc11042f.svg" width="400px">
 </details>
-
-**puran-debugger/puran-debugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
