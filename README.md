@@ -67,8 +67,8 @@
 
 ⚡  GitHub Statistics
   
-![](https://github.com/puran-debugger/Github_stat/blob/master/generated/overview.svg)
-![](https://github.com/puran-debugger/Github_stat/blob/master/generated/languages.svg)
+![](https://github.com/TeresaEL/Github_stat/blob/master/generated/overview.svg)
+![](https://github.com/TeresaEL/Github_stat/blob/master/generated/languages.svg)
 
 <!--
 <details close>
