@@ -1,5 +1,5 @@
 ### Hi, I'm Lily 👋
-- 🔭 &nbsp; I am a Junior student of Big Data Management and Application.<br>
+- 🔭 &nbsp; I am a Junior student of Big Data Management and Application from Dongbei University of Finance and Economics.<br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be a full stack software engineer and data scientist.<br>
 - 🌱 &nbsp; There are some free resource that may help if you would like to start in computer science or data science industry.<br> 
