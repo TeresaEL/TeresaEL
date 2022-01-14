@@ -11,9 +11,9 @@
   - [Machine Learning (Carnegie Mellon University)](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
   - [Natural Language Processing (University of Pennsylvania)](http://computational-linguistics-class.org/lectures.html)
 
-![GitHub Follow](https://img.shields.io/github/followers/puran-debugger.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/puran-debugger?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=puran-debugger.puran-debugger)
+![GitHub Follow](https://img.shields.io/github/followers/TeresaEL.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/TeresaEL?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TeresaEL.TeresaEL)
 
 📫 How to reach me:
 
