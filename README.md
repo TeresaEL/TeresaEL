@@ -73,8 +73,8 @@
 <!--
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=puran-debugger&show_icons=true&theme=nord"  width="400px">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=puran-debugger&layout=compact"  width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeresaEL&show_icons=true&theme=nord"  width="400px">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TeresaEL&layout=compact"  width="400px">
   
 </details>
 
