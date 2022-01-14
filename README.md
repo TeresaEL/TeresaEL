@@ -1,5 +1,5 @@
 ### Hi, I'm Lily 👋
-- 🔭 &nbsp; I recently work as a full stack Data Scientist and a junior software Engineer. I once worked as a Quant Researcher on Equity Alpha in a hedge fund and have 2 master's degrees in computer science (Upenn) and financial mathematics (USC) and a bachelor's degree in statistics (USTC). <br>
+- 🔭 &nbsp; I am a Junior student from  <br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be an experienced full stack software engineer and data scientist.<br>
 - 🌱 &nbsp; There are some free resource that may help if you would like to start in computer science or data science industry.<br> 
@@ -17,8 +17,8 @@
 
 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/puran-zhang/)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:puran@alumni.upenn.edu)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shutong-jia/)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:shutongjia@outlook.com)
 
 
 
