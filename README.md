@@ -1,5 +1,6 @@
 ### Hi, I'm Lily 👋
 - 🔭 &nbsp; I am a Senior student majoring in Big Data Management and Application from Dongbei University of Finance and Economics. I would like to pursue a master degree in computer science.<br>
+- 🌱 &nbsp; I worked as a software enginner and full stack data scientist in my co-founding Lexianggou Network Tech, which Helped poverty-stricken areas to cultivate characteristic industrial brands and increase product added value for tens of agricultural products such as Yixian passion fruit, Zhuanghe big bone chicken, and Lushun big cherry<br>
 - 👯 &nbsp; I’m looking to collaborate on  anything. I love tinkering and making honest mistakes.<br>
 - 😄 &nbsp; I enjoy what I am doing and expect myself to be a full stack software engineer and Machine Learning Engineer.<br>
 
