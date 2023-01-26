@@ -62,7 +62,7 @@
 ⚡  GitHub Statistics
   
 ![](https://github.com/TeresaEL/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TeresaEL/github-stats/blob/master/generated/languages1.svg)
+![](https://github.com/TeresaEL/github-stats/blob/master/generated/languages.svg)
 
 <!--
 <details close>
